@@ -6,7 +6,6 @@ Current code supports Automatic translation of
 1. Hindi
 2. Tamil
 3. Oriya
-4. Telugu
 
 Future Tasks
 1. Extend program to Identify the paradigms specfic to Sanskrit and Marathi
