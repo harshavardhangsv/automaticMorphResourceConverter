@@ -4,8 +4,8 @@ Scripts and tools to convert LTToolbox and ILMT generated Indian Morphological r
 
 Current code supports Automatic translation of 
 1. Hindi
-2. Tamil
-3. Oriya
+2. Oriya
+3. Tamil
 
 Future Tasks
 1. Extend program to Identify the paradigms specfic to Sanskrit and Marathi
